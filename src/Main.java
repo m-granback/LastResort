@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println("Simon säger hej till alla!");
 
+
+        //Alex test
+        System.out.println("Hello Alex!");
     }
 }
