@@ -1,0 +1,40 @@
+.cool-button-close {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-pref-width: 200px;
+}
+.cool-button-close:hover {
+    -fx-background-color: darkred;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-pref-width: 200px;
+}
+.cool-button-play {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-pref-width: 200px;
+}
+.cool-button-play:hover {
+    -fx-background-color: darkgreen;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-pref-width: 200px;
+}
